@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:2:1-48:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\0da3726bcbbdc9406ee4f94a3c4fdfbb\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\e7c3a58befdc0115d6b47212e42c9f5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\9bbb3dacfb58f54ebefc8f787cf260fb\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\54d88d38e32635c2aafad9b3db579d4e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\d6476da2dce6c208f13e88f2671be281\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\7bb429dcf904b00adb6e0a1c8684d92d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\bb45e03ad85f47f99da75656b3c455fe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\199e85170c37b3158e2168d7eab72716\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\597258b046f5204e8e01bd34b4cc25de\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\218ac4d2a0cc1fcd0c555073e29cb9ff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\cff1ceb9e8e614ee9368150f76fc1c80\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\c0de76c59f6cb0408ff8c629c5c7454f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\0db8a79269eeaaf12d5089e5a14fb18f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\46d330b12f308cf97e00d8c3b680a441\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\07947edcf34c21fbc51439d1167fde40\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\7eb7739c0093461e42fb8bb646a07f3e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\c522ede6d9afaf64a734d43a432179ab\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\01c935ee59eb63e4b68852b50b28d8ca\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\03e3e0b5720de83c8472705f82a76746\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\d3afee6642117d0e047055801c231a4b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\f76285895dcb82fd5b9cecd574d79705\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\5a52de3b9d05979417ba191f9d1bb4a4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\005c726d71077f7b5309d151f8db2ecd\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\b7b04af5d455774a566f66deb9c78290\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\eb31c6db2f97d942876e4f47b86113c6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\33c9f4529999531d2d79f0d88c0a57bc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\2a8b096429d99c3f809411804db1e627\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\be8666cbc0cbe58f0c3b4ab1f2b573dd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\d62bc2359ea3074227c442aa7e5fee3b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\f2b44cad357bb9aefb318383dd8a2d50\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\634172653f60fbc10d6dab7c2cf992cb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\3922bea40d6b777f2d64308f28c566ef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\1744e4f18c4c769df2cc518808333bc3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\32e2c854136e2de6f8c4bf9b1ead465d\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:11:22-73
+application
+ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:13:5-46:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\0da3726bcbbdc9406ee4f94a3c4fdfbb\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\0da3726bcbbdc9406ee4f94a3c4fdfbb\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\9bbb3dacfb58f54ebefc8f787cf260fb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\9bbb3dacfb58f54ebefc8f787cf260fb\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\f76285895dcb82fd5b9cecd574d79705\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\f76285895dcb82fd5b9cecd574d79705\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\005c726d71077f7b5309d151f8db2ecd\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\005c726d71077f7b5309d151f8db2ecd\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\32e2c854136e2de6f8c4bf9b1ead465d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\32e2c854136e2de6f8c4bf9b1ead465d\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\f76285895dcb82fd5b9cecd574d79705\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:17:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:18:9-47
+	android:icon
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:16:9-42
+	android:allowBackup
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:20:9-40
+activity#app.kemegni.fabrice.librarymanager.ActivitySignIn
+ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:22:9-31:20
+	android:label
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:25:13-45
+	android:theme
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:23:13-43
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:27:25-66
+action#android.intent.action.VIEW
+ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:29:27-74
+activity#app.kemegni.fabrice.librarymanager.ActivitySignUp
+ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:32:9-35:62
+	android:label
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:35:13-59
+	android:theme
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:33:13-43
+activity#app.kemegni.fabrice.librarymanager.ActivityHome
+ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:36:9-39:59
+	android:label
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:38:13-45
+	android:theme
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:37:13-41
+activity#app.kemegni.fabrice.librarymanager.ActivityBooks
+ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:40:9-41:58
+	android:theme
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:40:19-48
+activity#app.kemegni.fabrice.librarymanager.ActivityDetail
+ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:42:9-45:59
+	android:label
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:44:13-58
+	android:theme
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml:43:13-43
+uses-sdk
+INJECTED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\0da3726bcbbdc9406ee4f94a3c4fdfbb\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\0da3726bcbbdc9406ee4f94a3c4fdfbb\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\e7c3a58befdc0115d6b47212e42c9f5d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\e7c3a58befdc0115d6b47212e42c9f5d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\9bbb3dacfb58f54ebefc8f787cf260fb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\9bbb3dacfb58f54ebefc8f787cf260fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\54d88d38e32635c2aafad9b3db579d4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\54d88d38e32635c2aafad9b3db579d4e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\d6476da2dce6c208f13e88f2671be281\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\d6476da2dce6c208f13e88f2671be281\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\7bb429dcf904b00adb6e0a1c8684d92d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\7bb429dcf904b00adb6e0a1c8684d92d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\bb45e03ad85f47f99da75656b3c455fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\bb45e03ad85f47f99da75656b3c455fe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\199e85170c37b3158e2168d7eab72716\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\199e85170c37b3158e2168d7eab72716\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\597258b046f5204e8e01bd34b4cc25de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\597258b046f5204e8e01bd34b4cc25de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\218ac4d2a0cc1fcd0c555073e29cb9ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\218ac4d2a0cc1fcd0c555073e29cb9ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\cff1ceb9e8e614ee9368150f76fc1c80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\cff1ceb9e8e614ee9368150f76fc1c80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\c0de76c59f6cb0408ff8c629c5c7454f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\c0de76c59f6cb0408ff8c629c5c7454f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\0db8a79269eeaaf12d5089e5a14fb18f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\0db8a79269eeaaf12d5089e5a14fb18f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\46d330b12f308cf97e00d8c3b680a441\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\46d330b12f308cf97e00d8c3b680a441\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\07947edcf34c21fbc51439d1167fde40\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\07947edcf34c21fbc51439d1167fde40\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\7eb7739c0093461e42fb8bb646a07f3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\7eb7739c0093461e42fb8bb646a07f3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\c522ede6d9afaf64a734d43a432179ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\c522ede6d9afaf64a734d43a432179ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\01c935ee59eb63e4b68852b50b28d8ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\01c935ee59eb63e4b68852b50b28d8ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\03e3e0b5720de83c8472705f82a76746\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\03e3e0b5720de83c8472705f82a76746\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\d3afee6642117d0e047055801c231a4b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\d3afee6642117d0e047055801c231a4b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\f76285895dcb82fd5b9cecd574d79705\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\f76285895dcb82fd5b9cecd574d79705\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\5a52de3b9d05979417ba191f9d1bb4a4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\5a52de3b9d05979417ba191f9d1bb4a4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\005c726d71077f7b5309d151f8db2ecd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\005c726d71077f7b5309d151f8db2ecd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\b7b04af5d455774a566f66deb9c78290\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\b7b04af5d455774a566f66deb9c78290\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\eb31c6db2f97d942876e4f47b86113c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\eb31c6db2f97d942876e4f47b86113c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\33c9f4529999531d2d79f0d88c0a57bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\33c9f4529999531d2d79f0d88c0a57bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\2a8b096429d99c3f809411804db1e627\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\2a8b096429d99c3f809411804db1e627\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\be8666cbc0cbe58f0c3b4ab1f2b573dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\be8666cbc0cbe58f0c3b4ab1f2b573dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\d62bc2359ea3074227c442aa7e5fee3b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\d62bc2359ea3074227c442aa7e5fee3b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\f2b44cad357bb9aefb318383dd8a2d50\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\f2b44cad357bb9aefb318383dd8a2d50\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\634172653f60fbc10d6dab7c2cf992cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\634172653f60fbc10d6dab7c2cf992cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\3922bea40d6b777f2d64308f28c566ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\3922bea40d6b777f2d64308f28c566ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\1744e4f18c4c769df2cc518808333bc3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\1744e4f18c4c769df2cc518808333bc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\32e2c854136e2de6f8c4bf9b1ead465d\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\FKemegni\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\32e2c854136e2de6f8c4bf9b1ead465d\AndroidManifest.xml:7:5-43
+INJECTED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\src\main\AndroidManifest.xml
