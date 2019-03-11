@@ -5,26 +5,27 @@
     build-mode="COLD"
     density="420dpi"
     format="10"
+    ir-eligibility="STATIC_INITIALIZER_CHANGE"
     plugin-version="3.3.2"
-    timestamp="1552310512075"
+    timestamp="1552310619445"
     token="5664101374658828333"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="876" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="11" />
     <task
         name="verifier"
-        duration="0" />
+        duration="8" />
 
     <artifact
-        location="C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+        location="C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
 
     <build
@@ -73,19 +74,19 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1552310062411"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
         timestamp="1552310512075"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="STATIC_INITIALIZER_CHANGE"
+        timestamp="1552310619445"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\FKemegni\AndroidStudioProjects\LibraryManager\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
     </build>
 
